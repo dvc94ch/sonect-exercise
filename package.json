@@ -6,6 +6,11 @@
   "author": "David Craven <david@craven.ch>",
   "license": "ISC",
   "private": true,
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.3.16"
+  },
   "devDependencies": {
     "gulp": "^4.0.0"
   }
